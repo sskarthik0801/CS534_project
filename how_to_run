@@ -1,0 +1,2 @@
+cd cost
+python3 cost_map_prototype.py
